@@ -25,7 +25,8 @@ The network architecture accommodates multiple departments distributed across **
 
 
 ### Floor 2 Configuration
-<img width="321" height="363" alt="Screenshot 2026-06-28 at 3 52 04 PM" src="https://github.com/user-attachments/assets/bc2f97b9-aac9-4694-bac3-3bdfd07414ad" />
+<img width="311" height="355" alt="Screenshot 2026-06-28 at 3 53 31 PM" src="https://github.com/user-attachments/assets/f318742c-fa8e-4716-b3a2-3553993118b0" />
+
 
 
 ### Floor 3 Configuration
