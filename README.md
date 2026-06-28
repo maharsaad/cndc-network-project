@@ -60,11 +60,11 @@ VLANs logically divide departments within each floor. Each VLAN has a unique ID 
 | Store      | 192.168.7.0/24 | 20 |
 | Logistics  | 192.168.6.0/24 | 30 |
 
-# Router Configuration:
+#### Router Configuration:
 <img width="331" height="276" alt="Screenshot 2026-06-28 at 3 45 44 PM" src="https://github.com/user-attachments/assets/ffa69404-f13b-45e3-9f8b-da059aee9a06" />
 
 
-# Switch Configuration:
+#### Switch Configuration:
 <img width="243" height="227" alt="Screenshot 2026-06-28 at 3 46 07 PM" src="https://github.com/user-attachments/assets/33892f21-4c53-4fa6-9308-29c6c3d2430a" />
 
 ### Floor 2 — Finance, HR, Sales
@@ -75,10 +75,10 @@ VLANs logically divide departments within each floor. Each VLAN has a unique ID 
 | HR         | 192.168.4.0/24 |
 | Sales      | 192.168.3.0/24 (VLAN 50) |
 
-# Router Configuration:
+#### Router Configuration:
 <img width="289" height="293" alt="Screenshot 2026-06-28 at 3 47 02 PM" src="https://github.com/user-attachments/assets/c6bb1fbf-8374-4fed-ae8f-e5d9948efdc0" />
 
-# Switch Configuration:
+#### Switch Configuration:
 <img width="194" height="106" alt="Screenshot 2026-06-28 at 3 47 21 PM" src="https://github.com/user-attachments/assets/63820de1-4572-43cd-88de-ace94eda3b73" />
 ### Floor 3 — IT and Admin
 
@@ -87,10 +87,10 @@ VLANs logically divide departments within each floor. Each VLAN has a unique ID 
 | Admin      | 192.168.2.0/24 | — |
 | IT         | 192.168.1.0/24 | 10 |
 
-# Router Configuration:
+#### Router Configuration:
 <img width="244" height="182" alt="Screenshot 2026-06-28 at 3 47 43 PM" src="https://github.com/user-attachments/assets/62261708-d987-4cc7-8450-fa9e3dfdd481" />
 
-# Switch Configuration:
+#### Switch Configuration:
 <img width="218" height="123" alt="Screenshot 2026-06-28 at 3 48 11 PM" src="https://github.com/user-attachments/assets/a0d2f60b-16ff-4214-9977-fa08338ef133" />
 
 ## 4. Project Files
