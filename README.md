@@ -117,3 +117,9 @@ This multi-floor departmental network ensures efficient connectivity, security, 
 - **DHCP** — dynamic IP allocation
 - **VLANs** — logical network segmentation
 - **Inter-VLAN Routing** — cross-department/floor communication
+
+## Author
+
+Mahar Saad  
+GitHub: https://github.com/maharsaad
+
